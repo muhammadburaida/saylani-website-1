@@ -1,0 +1,27 @@
+img{
+    width: 260px;
+    height: auto;
+}
+UL{
+    list-style: none;
+}
+.d-flex{
+    padding-left: 2px;
+
+}
+li:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.w{
+    margin: 50px;
+    position: relative;
+    top: 50px;
+    left: 0;
+}
+span{
+    color: #8dc63f;
+}
+.b{
+    height: 400px;
+}
